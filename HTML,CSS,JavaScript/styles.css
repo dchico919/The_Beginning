@@ -1,0 +1,9 @@
+element.styles{
+    a{
+        color: #ff0000;
+    }
+    a:-webkit-any-link {
+        cursor: pointer;
+        text-decoration: underline;
+    }
+}
